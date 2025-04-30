@@ -17,7 +17,7 @@ An intelligent email management system that automatically processes your Gmail i
 
 ### Terminal Output Examples
 ![Terminal Output 1](src/AI2.jpg)
-![Terminal Output 2](src/AI1.jpg)
+![Terminal Output 2](src/AI.jpg)
 
 ## 🏗️ Project Structure
 
